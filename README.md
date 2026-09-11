@@ -1,3 +1,5 @@
+(Check the releases page to download!)
+
 I got mad that apple music has a horrible interface, so I wrote my own terminal
 music player.
 
